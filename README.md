@@ -1,5 +1,5 @@
 # Enroll subjets UEF
-Code automates enroll subjects for UEF students
+Code enroll automatically subjects for UEF students
 
 ## How to use 
 
